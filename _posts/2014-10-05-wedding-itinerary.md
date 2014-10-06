@@ -12,9 +12,9 @@ category: long-form
 
 
 ###Wedding Day – May 10th 2015 (Sunday):
-The wedding is in the nearby city of Brampton (in the Greater Toronto Area).  Transport will be provided from Toronto to Brampton on Sunday morning.
+The wedding is in the nearby city of Brampton (in the Greater Toronto Area).  Transport will be provided from Downtown Toronto to the Gurdwara in Brampton on Sunday morning.
 
-Canadian weddings have a different order to the day:
+Canadian weddings have a different order to UK weddings. Here is an outline to the day:
 
 * Sunday AM – Gurdwara ceremony in the morning (same time as UK weddings)
 * Sunday AM – After the ceremony there is Langar
@@ -22,8 +22,8 @@ Canadian weddings have a different order to the day:
 * Sunday PM – Early evening (6/7pm) – Reception
 * Monday AM – Reception normally finishes around 2am
 
-For the guests there is a 6 hour break between the Ceremony and Reception 
-Guests usually go back home and change their clothes between the Gurdwara and reception.
+Guests have a 6 hour break between the Ceremony and Reception 
+During this time guests usually go to their homes and get ready for the reception. Most guests wear a different outfit for the reception.
 
 Having a hotel in Brampton on the Sunday, will you give a base and a place to change etc.
 
