@@ -32,16 +32,16 @@ Having a hotel in Brampton on the Sunday, will you give a base and a place to ch
 
 ### Who to fly with:
 
-* Air Transat are normally the cheapest airline. (I’ve flown with them a few times, they have two types of planes: One has a personal TV and decent legroom, the other plane doesn’t have either)
+* Air Transat are normally the cheapest airline. (I’ve flown with them a few times, they have two types of planes: One type as a personal TV and decent legroom, the other type doesn’t have either)
 * Sun Wing (budget airline but I’ve never used them)
 * All other standard airlines (Air Canada, BA, America Airlines etc)
 
 ### Where to stay:
 Hotel booking:
 
-* For the beginning part of your trip, please book your stay in Toronto up to and including Saturday night
-* Book Sunday night in Brampton
-* If you are staying in the Canada after Monday, I recommend going back to Downtown Toronto
+* For the beginning part of your trip, please stay in Downtown Toronto up to and including Saturday night
+* Book Sunday night (May 10th) in Brampton
+* If you are staying in the Canada after Monday (May 11th), I recommend going back to Downtown Toronto
 
 A bus will take you from Toronto to Brampton on the Sunday morning.
 
@@ -49,11 +49,7 @@ Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
 
 
 ###Toronto Hotels:
-* The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: You can view more information here - [http://clubvista.ca/](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1).
-
-
-
-Let me know ASAP if you want me to book this for you, there are only 4 rooms available.
+* The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: You can view more information here - [http://clubvista.ca/](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1). Let me know ASAP if you want me to book this for you, there are only 4 rooms available.
 
 * List of Nearby Hotels - [Google Maps link](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
   * Renaissance Toronto at Rogers Centre
