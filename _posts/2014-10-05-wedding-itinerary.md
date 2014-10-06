@@ -68,7 +68,7 @@ Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hote
   * Chinatown 
   * Parkdale
   * Sherbourne St, Jarvis St, Parliament St (East Toronto)
-* As long as you’re in Downtown Toronto you’ll be close to everything. To check the distance from your hotel to my place on Google Maps, enter my address in 397 Front Street West.
+* As long as you’re in Downtown Toronto you’ll be close to everything. To check the distance from your hotel to my place, enter my address on Google Maps (397 Front Street West).
 
 <p>The red dotted line below is the area of Downtown Toronto. </p>
 ![Downtown]({{site.url}}/images/downtownmap.png)
