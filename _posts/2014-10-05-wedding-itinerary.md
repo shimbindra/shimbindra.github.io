@@ -4,7 +4,7 @@ layout: post
 category: long-form
 ---
 
-#Wedding Schedule
+#Wedding Details
 
 ### Pre-party:
 * Date: TBD most likely May 8th 2015 (Friday evening)
