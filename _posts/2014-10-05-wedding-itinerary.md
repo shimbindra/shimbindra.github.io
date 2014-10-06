@@ -26,7 +26,7 @@ Weddings in Canada have a different running order compared to UK weddings. Here 
 Guests have a 6 hour break between the Ceremony and Reception.<br>
 During this time guests usually go back to their homes and get ready for the reception. Most guests wear a different outfit for the reception.
 
-Having a hotel in Brampton on Sunday (May 10th) will you give a base and a place to change etc.
+Having a hotel in Brampton on Sunday (May 10th) will give you a base and a place to change.
 
 
 
