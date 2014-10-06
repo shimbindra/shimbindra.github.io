@@ -31,6 +31,7 @@ Having a hotel in Brampton on the Sunday, will you give a base and a place to ch
 
 
 ##Who to fly with:
+Toronto Pearson Airport is the only airport which handles direct flights from London. It is located in between Brampton and Toronto. Here are some of the airlines available:
 
 * Air Transat are normally the cheapest airline and operate from Gatwick direct to Toronto Pearson. (I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either)
 * Sun Wing (budget airline but I’ve never used them)
@@ -39,7 +40,7 @@ Having a hotel in Brampton on the Sunday, will you give a base and a place to ch
 ## Where to stay:
 Hotel booking:
 
-* Up to Saturday May 9th, I recommend staying in Downtown Toronto
+* Up to and including Saturday (May 9th), I recommend staying in Downtown Toronto
 * Book Sunday night (May 10th) in Brampton
 * If you are staying in Canada after Monday (May 11th), I recommend going back to Downtown Toronto
 
