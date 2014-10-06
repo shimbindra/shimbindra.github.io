@@ -71,7 +71,7 @@ Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hote
 * As long as you’re in Downtown Toronto you’ll be close to everything. To check the distance from your hotel to my place, enter my address on Google Maps (397 Front Street West).
 
 <p>The red line below is the area of Downtown Toronto. </p>
-![Newmapdt]({{site.url}}/images/newmapdt.png)
+![map]({{site.url}}/images/map.png)
 
 ###Brampton Hotels:
 
