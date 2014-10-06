@@ -12,10 +12,10 @@ category: long-form
 
 
 ###Wedding Day – May 10th 2015 (Sunday):
-The wedding is in the nearby city of Brampton (in the Greater Toronto Area). <br>
-Transport will be provided from Downtown Toronto to the Gurdwara in Brampton on Sunday morning.
+The wedding is in the nearby city of Brampton (which in the Greater Toronto Area). <br>
+Transport will be provided from Shim's place in Downtown Toronto to the Gurdwara in Brampton on Sunday morning.
 
-Canadian weddings have a different order to UK weddings. Here is an outline to the day:
+Canadian weddings have a different running order compared to UK weddings. Here is an outline to the day:
 
 * Sunday AM – Gurdwara ceremony in the morning (same time as UK weddings)
 * Sunday AM – After the ceremony there is Langar
