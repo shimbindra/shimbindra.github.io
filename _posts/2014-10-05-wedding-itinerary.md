@@ -12,17 +12,17 @@ category: long-form
 
 
 ###Wedding Day – May 10th 2015 (Sunday):
-The wedding is in the nearby city of Brampton (in the Greater Toronto Area).  Transport will be provided from Downtown Toronto to the Gurdwara in Brampton on Sunday morning.
+The wedding is in the nearby city of Brampton (in the Greater Toronto Area). <br>
+Transport will be provided from Downtown Toronto to the Gurdwara in Brampton on Sunday morning.
 
 Canadian weddings have a different order to UK weddings. Here is an outline to the day:
-
 * Sunday AM – Gurdwara ceremony in the morning (same time as UK weddings)
 * Sunday AM – After the ceremony there is Langar
 * Sunday PM – Early afternoon - After Gurdwara there is the Doli
 * Sunday PM – Early evening (6/7pm) – Reception
 * Monday AM – Reception normally finishes around 2am
 
-Guests have a 6 hour break between the Ceremony and Reception 
+Guests have a 6 hour break between the Ceremony and Reception.<br>
 During this time guests usually go to their homes and get ready for the reception. Most guests wear a different outfit for the reception.
 
 Having a hotel in Brampton on the Sunday, will you give a base and a place to change etc.
@@ -47,7 +47,7 @@ A bus will take you from Toronto to Brampton on the Sunday morning.
 Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
 
 
-###Toronto Hotels
+###Toronto Hotels:
 * The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: You can view more information here - [http://clubvista.ca/](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1).
 
 
@@ -75,7 +75,7 @@ Let me know ASAP if you want me to book this for you, there are only 4 rooms ava
 
 ![Downtown]({{site.url}}/images/downtownmap.png)
 
-###Brampton Hotels
+###Brampton Hotels:
 
 If you decided to stay in Brampton on Sunday night, here is a list of hotels near the Gurdwara and Reception hall
 
