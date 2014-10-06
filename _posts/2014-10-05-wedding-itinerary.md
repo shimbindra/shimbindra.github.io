@@ -81,7 +81,7 @@ Here is a list of hotels near the Gurdwara and Reception hall
 
 ###Transport:
 
-* If I’m unable to pick you up here are details of Airport transfers:
+* If I’m unable to pick you up from the airport, here are transfer details:
   * Taxi to Downtown Toronto costs $55 (takes 40 mins)
   * Coach transfer 
   * Public Transport $3 (takes 1 hour – 1hour 20mins and requires 3 transfers)
