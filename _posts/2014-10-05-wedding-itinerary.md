@@ -19,8 +19,8 @@ Weddings in Canada have a different running order compared to UK weddings. Here 
 
 * Sunday AM – Gurdwara ceremony in the morning (same time as UK weddings)
 * Sunday AM – After the ceremony there is Langar
-* Sunday PM – Early afternoon - After the Gurdwara is the Doli
-* Sunday PM – Early evening (6/7pm) – Reception
+* Sunday PM (Early afternoon) - After the Gurdwara is the Doli
+* Sunday PM (Early evening around 6/7pm) – Reception
 * Monday AM – Reception normally finishes around 2am
 
 Guests have a 6 hour break between the Ceremony and Reception.<br>
