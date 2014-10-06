@@ -48,7 +48,7 @@ Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
 
 
 ####Toronto Hotels
-* The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: [You can view more information here](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1).
+* The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: You can view more information here [http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1(http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1].
 
 
 
