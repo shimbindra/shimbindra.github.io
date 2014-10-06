@@ -53,6 +53,7 @@ Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hote
 
 * Here is a list of regular nearby hotels - [Google Maps link](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
   * Renaissance Toronto at Rogers Centre
+  * Hyatt
   * Thompson Toronto
   * Royal York
   * Hilton
@@ -121,5 +122,5 @@ Chandni Banquet Hall
 125 Chrysler Dr
 Brampton
 Ontario
-L6S
+L6S 6L1
 </pre>
