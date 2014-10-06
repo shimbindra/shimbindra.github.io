@@ -92,7 +92,7 @@ Here is a list of hotels near the Gurdwara and Reception hall - [Google Maps lin
   * Use either public transit (subway, trams, buses) or taxis
 * Travelling outside of Toronto to Brampton/Mississauga or other nearby towns:
   * [GO Bus or GO Rail](http://www.gotransit.com/) – major Toronto station is Union Station
-  * [Zipcar](http://www.zipcar.ca) – car rental by the hour (There is an annual fee with this company but you can also use this in London.  Membership needs to be set up before you come to Toronto)
+  * [Zipcar](http://www.zipcar.ca) – car rental by the hour (There is an annual fee with this company but you can also use this in London too.  Membership needs to be set up before you come to Toronto)
   * Enterprise, Budget, Hertz, Thrifty, Avis – regular car rental companies
 
 
