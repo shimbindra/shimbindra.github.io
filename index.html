@@ -1,1 +1,14 @@
-Hello World
+---
+layout: default
+---
+
+
+  {% for post in site.posts %}
+  <div id="post-listing">
+    <a href="{{ post.url }}"><h2>{{ post.title }}</h2>
+    <div id="post-excerpt">{{ post.content }}</div>
+    </a>
+  </div>
+  <hr/>
+  {% endfor %}
+  
