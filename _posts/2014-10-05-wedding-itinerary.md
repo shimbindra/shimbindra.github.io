@@ -73,7 +73,7 @@ Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
 
 ###Brampton Hotels:
 
-Here is a list of hotels near the Gurdwara and Reception hall - [Google Maps link] (https://www.google.ca/maps/search/hotels+near+4555+ebenezer+road/@43.7756434,-79.659186,15z/data=!3m1!4b1?hl=en)
+Here is a list of hotels near the Gurdwara and Reception hall - [Google Maps link](https://www.google.ca/maps/search/hotels+near+4555+ebenezer+road/@43.7756434,-79.659186,15z/data=!3m1!4b1?hl=en)
 
   * Hampton Inn by Hilton – 8710 The Gore Road
   * Holiday Inn Express Hotels – 10 Nevets Road
