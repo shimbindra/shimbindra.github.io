@@ -32,7 +32,7 @@ Having a hotel in Brampton on the Sunday, will you give a base and a place to ch
 
 ### Who to fly with:
 
-* Air Transat are normally the cheapest airline from Gatwick to Pearson. (I’ve flown with them a few times, they have two types of planes: One type as a personal TV and decent legroom, the other type doesn’t have either)
+* Air Transat are normally the cheapest airline and operate direct from Gatwick to Toronto Pearson. (I’ve flown with them a few times, they have two types of planes: One type as a personal TV and decent legroom, the other type doesn’t have either)
 * Sun Wing (budget airline but I’ve never used them)
 * All other standard airlines (Air Canada, BA, America Airlines etc)
 
