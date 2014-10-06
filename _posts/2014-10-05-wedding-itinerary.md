@@ -6,7 +6,7 @@ category: long-form
 
 #Wedding Schedule
 
-## Pre-party:
+### Pre-party:
 * Date: TBD most likely May 8th 2015 (Friday evening)
 * Location: TBD most likely Downtown Toronto
 
