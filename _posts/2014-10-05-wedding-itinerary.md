@@ -13,9 +13,9 @@ category: long-form
 
 ###Wedding Day – May 10th 2015 (Sunday):
 The wedding is in the nearby city of Brampton (which in the Greater Toronto Area). <br>
-Transport will be provided from Shim's place in Downtown Toronto to the Gurdwara in Brampton on Sunday morning.
+Transport will be provided from Shim's place in Downtown Toronto to the Gurdwara in Brampton.
 
-Canadian weddings have a different running order compared to UK weddings. Here is an outline to the day:
+Weddings in Canada have a different running order compared to UK weddings. Here is an outline of the Wedding Day:
 
 * Sunday AM – Gurdwara ceremony in the morning (same time as UK weddings)
 * Sunday AM – After the ceremony there is Langar
@@ -30,13 +30,13 @@ Having a hotel in Brampton on the Sunday, will you give a base and a place to ch
 
 
 
-### Airlines:
+### Who to fly with:
 
-* Air Transat – normally the cheapest (I’ve flown with them a few times, they have two types of planes. One has personal TV and decent legroom, the other plane doesn’t have either)
+* Air Transat are normally the cheapest airline. (I’ve flown with them a few times, they have two types of planes: One has a personal TV and decent legroom, the other plane doesn’t have either)
 * Sun Wing (budget airline but I’ve never used them)
 * All other standard airlines (Air Canada, BA, America Airlines etc)
 
-### Hotels:
+### Where to stay:
 Hotel booking:
 
 * For the beginning part of your trip, please book your stay in Toronto up to and including Saturday night
@@ -78,7 +78,7 @@ Let me know ASAP if you want me to book this for you, there are only 4 rooms ava
 
 ###Brampton Hotels:
 
-If you decided to stay in Brampton on Sunday night, here is a list of hotels near the Gurdwara and Reception hall
+Here is a list of hotels near the Gurdwara and Reception hall
 
   * Hampton Inn by Hilton – 8710 The Gore Road
   * Holiday Inn Express Hotels – 10 Nevets Road
