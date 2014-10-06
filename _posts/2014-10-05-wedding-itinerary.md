@@ -47,7 +47,7 @@ A bus will take you from Toronto to Brampton on the Sunday morning.
 Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
 
 
-####Toronto Hotels
+###Toronto Hotels
 * The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: You can view more information here - [http://clubvista.ca/](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1).
 
 
@@ -75,7 +75,7 @@ Let me know ASAP if you want me to book this for you, there are only 4 rooms ava
 
 ![Downtown]({{site.url}}/images/downtownmap.png)
 
-####Brampton Hotels
+###Brampton Hotels
 
 If you decided to stay in Brampton on Sunday night, here is a list of hotels near the Gurdwara and Reception hall
 
