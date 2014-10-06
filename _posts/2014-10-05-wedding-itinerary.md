@@ -11,7 +11,7 @@ category: long-form
 * Location: TBD most likely Downtown Toronto
 
 
-##Wedding Day – May 10th 2015 (Sunday):
+###Wedding Day – May 10th 2015 (Sunday):
 The wedding is in the nearby city of Brampton (in the Greater Toronto Area).  Transport will be provided from Toronto to Brampton on Sunday morning.
 
 Canadian weddings have a different order to the day:
@@ -29,13 +29,13 @@ Having a hotel in Brampton on the Sunday, will you give a base and a place to ch
 
 
 
-# Airlines:
+### Airlines:
 
 * Air Transat – normally the cheapest (I’ve flown with them a few times, they have two types of planes. One has personal TV and decent legroom, the other plane doesn’t have either)
 * Sun Wing (budget airline but I’ve never used them)
 * All other standard airlines (Air Canada, BA, America Airlines etc)
 
-# Hotels:
+### Hotels:
 Hotel booking:
 
 * For the beginning part of your trip, please book your stay in Toronto up to and including Saturday night
@@ -47,7 +47,7 @@ A bus will take you from Toronto to Brampton on the Sunday morning.
 Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
 
 
-##Toronto Hotels
+###Toronto Hotels
 * The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: [You can view more information here](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1).
 
 
@@ -75,7 +75,7 @@ Let me know ASAP if you want me to book this for you, there are only 4 rooms ava
 
 ![Downtown]({{site.url}}/images/downtownmap.png)
 
-##Brampton Hotels
+###Brampton Hotels
 
 If you decided to stay in Brampton on Sunday night, here is a list of hotels near the Gurdwara and Reception hall
 
@@ -83,7 +83,7 @@ If you decided to stay in Brampton on Sunday night, here is a list of hotels nea
   * Holiday Inn Express Hotels – 10 Nevets Road
   * Monte Carlo Inn – 45 Conventry Road
 
-#Transport:
+##Transport:
 
 * If I’m unable to pick you up here are details of Airport transfers:
   * Taxi to Downtown Toronto costs $55 (takes 40 mins)
@@ -97,9 +97,9 @@ If you decided to stay in Brampton on Sunday night, here is a list of hotels nea
   * Enterprise, Budget, Hertz, Thrifty, Avis – regular car rental
 
 
-#Addresses:
+##Addresses:
 
-##Shim’s address:
+###Shim’s address:
 <pre>
 397 Front Street West, 3011D
 Toronto
