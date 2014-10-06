@@ -33,8 +33,8 @@ Having a hotel in Brampton on the Sunday, will you give a base and a place to ch
 ##Who to fly with:
 Toronto Pearson Airport is the only airport which handles direct flights from London. It is located in between Brampton and Toronto. Here is an overview of some the available airlines:
 
-* Air Transat are normally the cheapest airline and operate from Gatwick direct to Toronto Pearson. (I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either)
-* Sun Wing (budget airline but I’ve never used them)
+* Air Transat is normally the cheapest airline and operates from Gatwick direct to Toronto Pearson. I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either.
+* Sun Wing (budget airline and I’ve never used them)
 * All other standard airlines (Air Canada, BA, America Airlines etc)
 
 ## Where to stay:
