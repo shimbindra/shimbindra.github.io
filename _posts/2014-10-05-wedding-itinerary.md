@@ -32,7 +32,7 @@ Having a hotel in Brampton on the Sunday, will you give a base and a place to ch
 
 ### Who to fly with:
 
-* Air Transat are normally the cheapest airline and operate direct from Gatwick to Toronto Pearson. (I’ve flown with them a few times, they have two types of planes: One type as a personal TV and decent legroom, the other type doesn’t have either)
+* Air Transat are normally the cheapest airline and operate direct from Gatwick to Toronto Pearson. (I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either)
 * Sun Wing (budget airline but I’ve never used them)
 * All other standard airlines (Air Canada, BA, America Airlines etc)
 
@@ -41,9 +41,7 @@ Hotel booking:
 
 * For the beginning part of your trip, please stay in Downtown Toronto up to and including Saturday night
 * Book Sunday night (May 10th) in Brampton
-* If you are staying in the Canada after Monday (May 11th), I recommend going back to Downtown Toronto
-
-A bus will take you from Toronto to Brampton on the Sunday morning.
+* If you are staying in Canada after Monday (May 11th), I recommend going back to Downtown Toronto
 
 Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
 
