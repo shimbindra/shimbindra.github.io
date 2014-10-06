@@ -48,13 +48,13 @@ Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
 
 
 ####Toronto Hotels
-* The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: You can view more information here [http://clubvista.ca/](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1).
+* The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: You can view more information here - [http://clubvista.ca/](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1).
 
 
 
 Let me know ASAP if you want me to book this for you, there are only 4 rooms available.
 
-* [List of Nearby Hotels](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
+* List of Nearby Hotels - [Google Maps link](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
   * Renaissance Toronto at Rogers Centre
   * Thompson Toronto
   * Royal York
