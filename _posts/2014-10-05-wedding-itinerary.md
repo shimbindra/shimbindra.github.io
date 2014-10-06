@@ -13,7 +13,7 @@ category: long-form
 
 ###Wedding Day – May 10th 2015 (Sunday):
 The wedding ceremony and reception will be held in Brampton (a 40 min drive from Downtown Toronto). <br>
-Transport will be provided from Shim's place in Downtown Toronto to the Gurdwara in Brampton.
+Transport will be provided from my place in Downtown Toronto to the Gurdwara in Brampton.
 
 Weddings in Canada have a different running order compared to UK weddings. Here is an outline of the Wedding Day:
 
@@ -24,7 +24,7 @@ Weddings in Canada have a different running order compared to UK weddings. Here 
 * Monday AM – Reception normally finishes around 2am
 
 Guests have a 6 hour break between the Ceremony and Reception.<br>
-During this time guests usually go to their homes and get ready for the reception. Most guests wear a different outfit for the reception.
+During this time guests usually go back to their homes and get ready for the reception. Most guests wear a different outfit for the reception.
 
 Having a hotel in Brampton on the Sunday, will you give a base and a place to change etc.
 
