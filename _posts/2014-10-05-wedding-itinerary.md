@@ -44,7 +44,7 @@ Hotel booking:
 * Book Sunday night (May 10th) in Brampton
 * If you are staying in Canada after Monday (May 11th), I recommend going back to Downtown Toronto
 
-Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
+Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hotel), [Hotels.com](www.hotels.com), [Hotwire.com](www.hotwire.com)
 
 
 ###Toronto Hotels:
@@ -89,8 +89,8 @@ Here is a list of hotels near the Gurdwara and Reception hall - [Google Maps lin
 * Travelling around Downtown Toronto:
   * Use either public transit (subway, trams, buses) or taxis
 * Travelling outside of Toronto to Brampton/Mississauga or other nearby towns:
-  * GO Bus or GO Rail – major Toronto station is Union Station
-  * Zipcar – car rental by the hour (Membership needs to be done before you come to Toronto, annual fee too)
+  * [GO Bus or GO Rail](http://www.gotransit.com/) – major Toronto station is Union Station
+  * [Zipcar](www.zipcar.ca) – car rental by the hour (This is available in London and Toronto. Membership needs to be done before you come to Toronto but there is an annual fee)
   * Enterprise, Budget, Hertz, Thrifty, Avis – regular car rental
 
 
