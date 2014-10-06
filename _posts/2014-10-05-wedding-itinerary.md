@@ -36,7 +36,7 @@ Having a hotel in Brampton on the Sunday, will you give a base and a place to ch
 * Sun Wing (budget airline but I’ve never used them)
 * All other standard airlines (Air Canada, BA, America Airlines etc)
 
-### Where to stay:
+## Where to stay:
 Hotel booking:
 
 * For the beginning part of your trip, please stay in Downtown Toronto up to and including Saturday night
@@ -79,7 +79,7 @@ Here is a list of hotels near the Gurdwara and Reception hall - [Google Maps lin
   * Holiday Inn Express Hotels – 10 Nevets Road
   * Monte Carlo Inn – 45 Conventry Road
 
-###Transport:
+##Transport:
 
 * If I’m unable to pick you up from the airport, here are transfer details:
   * Taxi to Downtown Toronto costs $55 (takes 40 mins)
@@ -93,7 +93,7 @@ Here is a list of hotels near the Gurdwara and Reception hall - [Google Maps lin
   * Enterprise, Budget, Hertz, Thrifty, Avis – regular car rental
 
 
-###Addresses:
+##Addresses:
 
 ####Shim’s address:
 <pre>
