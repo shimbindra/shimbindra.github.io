@@ -16,6 +16,7 @@ The wedding is in the nearby city of Brampton (in the Greater Toronto Area). <br
 Transport will be provided from Downtown Toronto to the Gurdwara in Brampton on Sunday morning.
 
 Canadian weddings have a different order to UK weddings. Here is an outline to the day:
+
 * Sunday AM – Gurdwara ceremony in the morning (same time as UK weddings)
 * Sunday AM – After the ceremony there is Langar
 * Sunday PM – Early afternoon - After Gurdwara there is the Doli
