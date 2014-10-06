@@ -49,10 +49,10 @@ Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
 
 
 ###Toronto Hotels:
-* The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: You can view more information here - [http://clubvista.ca/](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1). <br>
+* The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre> You can view more information here - [http://clubvista.ca/](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1). <br>
  Let me know ASAP if you want me to book this for you, there are only 4 rooms available.
 
-* List of Nearby Hotels - [Google Maps link](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
+* Here is a list of Nearby Hotels - [Google Maps link](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
   * Renaissance Toronto at Rogers Centre
   * Thompson Toronto
   * Royal York
@@ -69,7 +69,7 @@ Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
   * Chinatown 
   * Parkdale
   * Sherbourne St, Jarvis St, Parliament St (East Toronto)
-* As long as you’re in Downtown Toronto you’ll be close to everything. To check the distance from your hotel to my place on Google Maps, enter my address in 397 Front Street West
+* As long as you’re in Downtown Toronto you’ll be close to everything. To check the distance from your hotel to my place on Google Maps, enter my address in 397 Front Street West.
 
 ![Downtown]({{site.url}}/images/downtownmap.png)
 
@@ -86,7 +86,7 @@ Here is a list of hotels near the Gurdwara and Reception hall
 * If I’m unable to pick you up here are details of Airport transfers:
   * Taxi to Downtown Toronto costs $55 (takes 40 mins)
   * Coach transfer 
-  * Public Transport $3 (takes 1 hour – 1hour 20mins)
+  * Public Transport $3 (takes 1 hour – 1hour 20mins and requires 3 transfers)
 * Travelling around Downtown Toronto:
   * Use either public transit (subway, trams, buses) or taxis
 * Travelling outside of Toronto to Brampton/Mississauga or other nearby towns:
