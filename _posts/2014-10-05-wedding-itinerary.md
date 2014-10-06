@@ -70,7 +70,7 @@ Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hote
   * Sherbourne St, Jarvis St, Parliament St (East Toronto)
 * As long as you’re in Downtown Toronto you’ll be close to everything. To check the distance from your hotel to my place on Google Maps, enter my address in 397 Front Street West.
 
-The red dotted line below is the area of Downtown Toronto. <br>
+The red dotted line below is the area of Downtown Toronto. <p>
 ![Downtown]({{site.url}}/images/downtownmap.png)
 
 ###Brampton Hotels:
