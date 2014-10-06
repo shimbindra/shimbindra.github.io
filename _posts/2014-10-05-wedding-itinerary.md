@@ -33,7 +33,7 @@ Having a hotel in Brampton on Sunday (May 10th) will give you a base and a place
 ##Who to fly with:
 Toronto Pearson Airport is the only airport which handles direct flights from London. It is located in between Brampton and Toronto. Here is an overview of some the available airlines:
 
-It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we can party our asses off on Wednesday and Thursday.
+It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we can party our asses off on Wednesday, Thursday and Friday too.
 
 * Air Transat is normally the cheapest airline and operates from Gatwick direct to Toronto Pearson. I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either.
 * Sun Wing (budget airline and I’ve never used them)
@@ -96,6 +96,7 @@ Here is a list of hotels near the Gurdwara and Reception hall - [Google Maps lin
   * [GO Bus or GO Rail](http://www.gotransit.com/) – major Toronto station is Union Station
   * [Zipcar](http://www.zipcar.ca) – car rental by the hour (there is an annual fee with this company but you can also use this in London too.  Membership needs to be set up before you come to Toronto)
   * Enterprise, Budget, Hertz, Thrifty, Avis – regular car rental companies
+
 
 
 ##Addresses:
