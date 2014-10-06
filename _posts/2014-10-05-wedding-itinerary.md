@@ -12,7 +12,7 @@ category: long-form
 
 
 ###Wedding Day – May 10th 2015 (Sunday):
-The wedding ceremony and reception will be held in Brampton (which in the Greater Toronto Area). <br>
+The wedding ceremony and reception will be held in Brampton (a 40 min drive from Downtown Toronto). <br>
 Transport will be provided from Shim's place in Downtown Toronto to the Gurdwara in Brampton.
 
 Weddings in Canada have a different running order compared to UK weddings. Here is an outline of the Wedding Day:
