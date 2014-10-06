@@ -47,7 +47,7 @@ A bus will take you from Toronto to Brampton on the Sunday morning.
 Hotel booking websites - Websites: Priceline.com, Hotels.com, Trip Advisor
 
 
-###Toronto Hotels
+####Toronto Hotels
 * The building where I live has double rooms available for $80 a night. These are in the heart of Toronto, right next to the CN Tower, Rogers Centre: [You can view more information here](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1).
 
 
@@ -75,7 +75,7 @@ Let me know ASAP if you want me to book this for you, there are only 4 rooms ava
 
 ![Downtown]({{site.url}}/images/downtownmap.png)
 
-###Brampton Hotels
+####Brampton Hotels
 
 If you decided to stay in Brampton on Sunday night, here is a list of hotels near the Gurdwara and Reception hall
 
@@ -83,7 +83,7 @@ If you decided to stay in Brampton on Sunday night, here is a list of hotels nea
   * Holiday Inn Express Hotels – 10 Nevets Road
   * Monte Carlo Inn – 45 Conventry Road
 
-##Transport:
+###Transport:
 
 * If I’m unable to pick you up here are details of Airport transfers:
   * Taxi to Downtown Toronto costs $55 (takes 40 mins)
@@ -97,9 +97,9 @@ If you decided to stay in Brampton on Sunday night, here is a list of hotels nea
   * Enterprise, Budget, Hertz, Thrifty, Avis – regular car rental
 
 
-##Addresses:
+###Addresses:
 
-###Shim’s address:
+####Shim’s address:
 <pre>
 397 Front Street West, 3011D
 Toronto
@@ -108,7 +108,7 @@ M5V 3S1
 </pre>
 ![ShimsPlace]({{site.url}}/images/397.png)
 
-##Gurdwara address:
+####Gurdwara address:
 <pre>
 Gurdwara Dasmesh Darbar
 4555 Ebenezer Rd
@@ -117,7 +117,7 @@ Ontario
 L6P 2R2
 </pre>
 
-##Reception address:
+####Reception address:
 <pre>
 Chandni Banquet Hall
 125 Chrysler Dr
