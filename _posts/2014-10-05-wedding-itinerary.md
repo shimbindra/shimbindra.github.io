@@ -9,7 +9,7 @@ Hello and Welcome to [Manz Are Getting Married.com](http://www.manzaregettingmar
 This should give you the info you need for Me and Manpreet's big day.
 
 
-###Dates
+##Dates
 It would be great if you are in Toronto by Tuesday (<b>May 5th 2015</b>), so we can party our asses off on Wednesday, Thursday and Friday. 
 
 I will be throwing a Pre-Party, the date and location is TBD. Most likely on <b> Friday May 8th</B> in Downtown Toronto. 
