@@ -4,8 +4,20 @@ layout: post
 category: long-form
 ---
 
-##Who to fly with:
+
+##Dates
 It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we can party our asses off on Wednesday, Thursday and Friday too.
+
+####Pre-Party
+* Date: TBD most likely May 8th 2015 (Friday evening)
+* Location: TBD most likely Downtown Toronto
+
+####Wedding Day
+* Date: May 10th 2015
+* Location: Brampton (Greater Toronto Area)
+
+##Who to fly with:
+
 
 Toronto Pearson Airport is the only airport which handles direct flights from London. It is located in between Brampton and Toronto. Here is an overview of some the available airlines:
 
@@ -17,8 +29,7 @@ Toronto Pearson Airport is the only airport which handles direct flights from Lo
 ##Wedding Schedule
 
 ### Pre-party:
-* Date: TBD most likely May 8th 2015 (Friday evening)
-* Location: TBD most likely Downtown Toronto
+
 
 
 ###Wedding Day – May 10th 2015 (Sunday):
