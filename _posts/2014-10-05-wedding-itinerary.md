@@ -81,7 +81,7 @@ Guests have a 6 hour break between the Ceremony and Reception.<br>
 During this time you will be taken back to Toronto by the coach. Normally most guests wear a different outfit for the reception.
 
 
-##Transport:
+##Toronto Transport:
 
 * If I’m unable to pick you up from the airport, here are transfer details:
   * Taxi to Downtown Toronto costs $55 (takes 40 mins)
