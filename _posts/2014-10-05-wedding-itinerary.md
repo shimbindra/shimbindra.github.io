@@ -6,7 +6,7 @@ category: long-form
 
 Hello and Welcome to [Manz Are Getting Married.com](http://www.manzaregettingmarried.com)!
 
-This should give you the info you need for Me and Manpreet's big day.<br> If you got any questions, holla.
+This should give you the info you need for Me and Manpreet's big day.
 
 
 ###Dates
