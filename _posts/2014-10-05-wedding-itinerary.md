@@ -13,7 +13,16 @@ category: long-form
 
 ###Wedding Day – May 10th 2015 (Sunday):
 The wedding ceremony and reception will be held in Brampton (a 40 min drive from Downtown Toronto). <br>
-Transport will be provided from my place in Downtown Toronto to the Gurdwara in Brampton.
+Transport will be provided from my place in Downtown Toronto to the Gurdwara in Brampton and again from Downtown Toronto to the reception hall in Brampton.
+
+Coach plan:
+* From Toronto to Brampton on Sunday morning
+* From Brampton to Toronto on early Sunday afternoon
+* From Toronto to Brampton on Sunday evening
+* From Brampton to Toronto on early Monday morning (2am-ish)
+
+
+A coach will leave Downtown Toronto on the morning of the wedding and take you back to Toronto after the recep
 
 Weddings in Canada have a different running order compared to UK weddings. Here is an outline of the Wedding Day:
 
