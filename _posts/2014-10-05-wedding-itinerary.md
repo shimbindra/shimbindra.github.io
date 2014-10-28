@@ -8,13 +8,9 @@ category: long-form
 ###Dates
 It would be great if you are in Toronto by Wednesday afternoon (May 6th 2015), so we can party our asses off on Wednesday, Thursday and Friday. You 
 
-Pre-Party
-* Date: TBD most likely Friday May 8th 2015
-* Location: TBD most likely Downtown Toronto
+Pre-Party date and location is TBD. Most likely on Friday May 8th and in Downtown Toronto. 
 
-####Wedding Day - Ceremony and Reception
-* Date: Sunday May 10th 2015
-* Location: Brampton (Greater Toronto Area)
+The Wedding Ceremony and Reception is on Sunday May 10th in Brampton (Greater Toronto Area).
 
 ##Who to fly with:
 
