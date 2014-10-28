@@ -24,7 +24,7 @@ Toronto Pearson Airport is the only airport which handles direct flights from Lo
 ## Where to stay:
 Best place to stay for the duration of the trip is in Downtown Toronto.
 
-Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hotel), [Hotels.com](http://www.hotels.com), [Hotwire.com](http://www.hotwire.com)
+Hotel booking websites - [Priceline.com](http://www.priceline.com/hotel), [Hotels.com](http://www.hotels.com), [Hotwire.com](http://www.hotwire.com)
 
 
 ###Toronto Hotels:
