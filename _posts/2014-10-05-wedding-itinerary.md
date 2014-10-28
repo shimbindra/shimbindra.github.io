@@ -9,11 +9,11 @@ category: long-form
 It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we can party our asses off on Wednesday, Thursday and Friday.
 
 ####Pre-Party
-* Date: TBD most likely May 8th 2015 (Friday evening)
+* Date: TBD most likely Friday May 8th 2015
 * Location: TBD most likely Downtown Toronto
 
-####Wedding Day
-* Date: May 10th 2015
+####Wedding Day - Ceremony and Reception
+* Date: Sunday May 10th 2015
 * Location: Brampton (Greater Toronto Area)
 
 ##Who to fly with:
