@@ -9,7 +9,7 @@ Hello and Welcome to [Manz Are Getting Married.com](http://www.manzaregettingmar
 This should give you the info you need for Me and Manpreet's big day.
 
 
-##Dates
+##Dates:
 It would be great if you are in Toronto by Tuesday (<b>May 5th 2015</b>), so we can party our asses off on Wednesday, Thursday and Friday. 
 
 I will be throwing a Pre-Party before the wedding. The date and location of this is TBD. Most likely on <b>Friday May 8th</B> in Downtown Toronto. 
@@ -33,7 +33,7 @@ Hotel booking websites - [Priceline.com](http://www.priceline.com/hotel), [Hotel
 
 ###Toronto Hotels:
 
-* Here is a list of regular nearby hotels - [click here for Google Maps link](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
+* Here is a list of nearby hotels - [click here for Google Maps link](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
   * Renaissance Toronto at Rogers Centre
   * Hyatt
   * Ritz Carlton
@@ -58,10 +58,7 @@ Hotel booking websites - [Priceline.com](http://www.priceline.com/hotel), [Hotel
 ![map]({{site.url}}/images/map.png)
 
 
-##Wedding Schedule
-
-
-###Wedding Day – May 10th 2015 (Sunday):
+##Wedding Day – May 10th 2015 (Sunday):
 The wedding ceremony and reception will be held in Brampton (a 40 min drive from Downtown Toronto). <br>
 Transport will be provided on the Wedding Day for two round trips from Toronto to Brampton for the guests.
 
