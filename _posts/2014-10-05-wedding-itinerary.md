@@ -63,7 +63,7 @@ Hotel booking websites - [Priceline.com](http://www.priceline.com/hotel), [Hotel
 
 ###Wedding Day – May 10th 2015 (Sunday):
 The wedding ceremony and reception will be held in Brampton (a 40 min drive from Downtown Toronto). <br>
-Transport will be provided from my place in Downtown Toronto to the Gurdwara in Brampton and again from Downtown Toronto to the reception hall in Brampton.
+Transport will be provided on the Wedding Day for two round trips from Toronto to Brampton for the guests.
 
 Coach plan: <br>
 
