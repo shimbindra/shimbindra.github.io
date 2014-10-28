@@ -17,7 +17,6 @@ It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we 
 * Location: Brampton (Greater Toronto Area)
 
 <br>
-
 ##Who to fly with:
 
 Toronto Pearson Airport is the only airport which handles direct flights from London. The airport is located in between Brampton and Toronto. Here are some of the available airlines:
