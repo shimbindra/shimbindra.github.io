@@ -4,6 +4,16 @@ layout: post
 category: long-form
 ---
 
+##Who to fly with:
+Toronto Pearson Airport is the only airport which handles direct flights from London. It is located in between Brampton and Toronto. Here is an overview of some the available airlines:
+
+It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we can party our asses off on Wednesday, Thursday and Friday too.
+
+* Air Transat is normally the cheapest airline and operates from Gatwick direct to Toronto Pearson. I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either.
+* Sun Wing (budget airline and I’ve never used them)
+* All other standard airlines (Air Canada, BA, America Airlines etc)
+
+
 ##Wedding Schedule
 
 ### Pre-party:
@@ -23,8 +33,6 @@ Coach plan: <br>
 * From Brampton to Toronto on early Monday morning (2am-ish)
 
 
-A coach will leave Downtown Toronto on the morning of the wedding and take you back to Toronto after the recep
-
 Weddings in Canada have a different running order compared to UK weddings. Here is an outline of the Wedding Day:
 
 * Sunday AM – Gurdwara ceremony in the morning (same time as UK weddings)
@@ -39,14 +47,7 @@ During this time guests usually go back to their homes and get ready for the rec
 
 
 
-##Who to fly with:
-Toronto Pearson Airport is the only airport which handles direct flights from London. It is located in between Brampton and Toronto. Here is an overview of some the available airlines:
 
-It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we can party our asses off on Wednesday, Thursday and Friday too.
-
-* Air Transat is normally the cheapest airline and operates from Gatwick direct to Toronto Pearson. I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either.
-* Sun Wing (budget airline and I’ve never used them)
-* All other standard airlines (Air Canada, BA, America Airlines etc)
 
 ## Where to stay:
 Hotel booking:
