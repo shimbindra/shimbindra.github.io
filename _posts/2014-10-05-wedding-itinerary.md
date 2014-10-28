@@ -26,40 +26,6 @@ Toronto Pearson Airport is the only airport which handles direct flights from Lo
 * All other standard airlines (Air Canada, BA, America Airlines etc)
 
 
-##Wedding Schedule
-
-### Pre-party:
-
-
-
-###Wedding Day – May 10th 2015 (Sunday):
-The wedding ceremony and reception will be held in Brampton (a 40 min drive from Downtown Toronto). <br>
-Transport will be provided from my place in Downtown Toronto to the Gurdwara in Brampton and again from Downtown Toronto to the reception hall in Brampton.
-
-Coach plan: <br>
-
-* From Toronto to Brampton on Sunday morning
-* From Brampton to Toronto on early Sunday afternoon
-* From Toronto to Brampton on Sunday evening
-* From Brampton to Toronto on early Monday morning (2am-ish)
-
-
-Weddings in Canada have a different running order compared to UK weddings. Here is an outline of the Wedding Day:
-
-* Sunday AM – Gurdwara ceremony in the morning (same time as UK weddings)
-* Sunday AM – After the ceremony there is Langar
-* Sunday PM (Early afternoon) - After the Gurdwara is the Doli
-* Sunday PM (Early evening around 6/7pm) – Reception
-* Monday AM – Reception normally finishes around 2am
-
-Guests have a 6 hour break between the Ceremony and Reception.<br>
-During this time guests usually go back to their homes and get ready for the reception. Most guests wear a different outfit for the reception.
-
-
-
-
-
-
 ## Where to stay:
 Hotel booking:
 
@@ -95,6 +61,33 @@ Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hote
 
 <p>The red line below on the map below is the Downtown Toronto area. </p>
 ![map]({{site.url}}/images/map.png)
+
+
+##Wedding Schedule
+
+
+###Wedding Day – May 10th 2015 (Sunday):
+The wedding ceremony and reception will be held in Brampton (a 40 min drive from Downtown Toronto). <br>
+Transport will be provided from my place in Downtown Toronto to the Gurdwara in Brampton and again from Downtown Toronto to the reception hall in Brampton.
+
+Coach plan: <br>
+
+* From Toronto to Brampton on Sunday morning
+* From Brampton to Toronto on early Sunday afternoon
+* From Toronto to Brampton on Sunday evening
+* From Brampton to Toronto on early Monday morning (2am-ish)
+
+
+Weddings in Canada have a different running order compared to UK weddings. Here is an outline of the Wedding Day:
+
+* Sunday AM – Gurdwara ceremony in the morning (same time as UK weddings)
+* Sunday AM – After the ceremony there is Langar
+* Sunday PM (Early afternoon) - After the Gurdwara is the Doli
+* Sunday PM (Early evening around 6/7pm) – Reception
+* Monday AM – Reception normally finishes around 2am
+
+Guests have a 6 hour break between the Ceremony and Reception.<br>
+During this time you will be taken back to Toronto by the coach. Normally most guests wear a different outfit for the reception.
 
 
 ##Transport:
