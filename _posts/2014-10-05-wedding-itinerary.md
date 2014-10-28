@@ -72,10 +72,10 @@ Transport will be provided from my place in Downtown Toronto to the Gurdwara in 
 
 Coach plan: <br>
 
-* From Toronto to Brampton on Sunday morning
-* From Brampton to Toronto on early Sunday afternoon
-* From Toronto to Brampton on Sunday evening
-* From Brampton to Toronto on early Monday morning (2am-ish)
+* From Toronto to Brampton before the Gurdwara ceremony
+* From Brampton to Toronto after the Gurdwara ceremony
+* From Toronto to Brampton before the reception
+* From Brampton to Toronto after the reception
 
 
 Weddings in Canada have a different running order compared to UK weddings. Here is an outline of the Wedding Day:
