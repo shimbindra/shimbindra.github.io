@@ -26,7 +26,6 @@ Weddings in Canada have a different running order compared to UK weddings. Here 
 Guests have a 6 hour break between the Ceremony and Reception.<br>
 During this time guests usually go back to their homes and get ready for the reception. Most guests wear a different outfit for the reception.
 
-Having a hotel in Brampton on Sunday (May 10th) will give you a base and a place to change.
 
 
 
@@ -42,9 +41,7 @@ It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we 
 ## Where to stay:
 Hotel booking:
 
-* Up to and including Saturday (May 9th), I recommend staying in Downtown Toronto
-* Book Sunday night (May 10th) in Brampton
-* If you are staying in Canada after Monday (May 11th), I recommend going back to Downtown Toronto
+Best place to stay for the duration of the trip is in Downtown Toronto.
 
 Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hotel), [Hotels.com](www.hotels.com), [Hotwire.com](www.hotwire.com)
 
@@ -77,13 +74,6 @@ Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hote
 <p>The red line below on the map below is the Downtown Toronto area. </p>
 ![map]({{site.url}}/images/map.png)
 
-###Brampton Hotels:
-
-Here is a list of hotels near the Gurdwara and Reception hall - [Google Maps link](https://www.google.ca/maps/search/hotels+near+4555+ebenezer+road/@43.7756434,-79.659186,15z/data=!3m1!4b1?hl=en)
-
-  * Hampton Inn by Hilton – 8710 The Gore Road
-  * Holiday Inn Express Hotels – 10 Nevets Road
-  * Monte Carlo Inn – 45 Conventry Road
 
 ##Transport:
 
