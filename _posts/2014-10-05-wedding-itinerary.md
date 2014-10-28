@@ -18,8 +18,7 @@ It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we 
 
 ##Who to fly with:
 
-
-Toronto Pearson Airport is the only airport which handles direct flights from London. It is located in between Brampton and Toronto. Here is an overview of some the available airlines:
+Toronto Pearson Airport is the only airport which handles direct flights from London. The airport is located in between Brampton and Toronto. Here are some of the available airlines:
 
 * Air Transat is normally the cheapest airline and operates from Gatwick direct to Toronto Pearson. I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either.
 * Sun Wing (budget airline and I’ve never used them)
@@ -27,8 +26,6 @@ Toronto Pearson Airport is the only airport which handles direct flights from Lo
 
 
 ## Where to stay:
-Hotel booking:
-
 Best place to stay for the duration of the trip is in Downtown Toronto.
 
 Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hotel), [Hotels.com](www.hotels.com), [Hotwire.com](www.hotwire.com)
@@ -36,7 +33,7 @@ Hotel booking websites - Websites: [Priceline.com](http://www.priceline.com/hote
 
 ###Toronto Hotels:
 * The building where I live has double rooms available for $80 a night. The rooms are in the heart of Toronto, right next to the CN Tower and Rogers Centre. You can view more information here - [http://clubvista.ca/](http://clubvista.ca/facilities/GS_A_Matrix_Guest_Suite-1). <br>
- Let me know ASAP if you want me to book this for you, there are only 4 rooms available.
+ Let me know ASAP if you want me to book this for you, there are only 2 rooms available.
 
 * Here is a list of regular nearby hotels - [Google Maps link](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
   * Renaissance Toronto at Rogers Centre
