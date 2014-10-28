@@ -5,9 +5,9 @@ category: long-form
 ---
 
 ##Who to fly with:
-Toronto Pearson Airport is the only airport which handles direct flights from London. It is located in between Brampton and Toronto. Here is an overview of some the available airlines:
-
 It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we can party our asses off on Wednesday, Thursday and Friday too.
+
+Toronto Pearson Airport is the only airport which handles direct flights from London. It is located in between Brampton and Toronto. Here is an overview of some the available airlines:
 
 * Air Transat is normally the cheapest airline and operates from Gatwick direct to Toronto Pearson. I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either.
 * Sun Wing (budget airline and I’ve never used them)
