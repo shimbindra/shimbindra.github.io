@@ -15,7 +15,6 @@ It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we 
 ####Wedding Day - Ceremony and Reception
 * Date: Sunday May 10th 2015
 * Location: Brampton (Greater Toronto Area)
-<br>
 
 ##Who to fly with:
 
