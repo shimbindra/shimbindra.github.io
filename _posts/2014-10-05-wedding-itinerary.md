@@ -6,9 +6,9 @@ category: long-form
 
 
 ###Dates
-It would be great if you are in Toronto by Wednesday afternoon (May 6th), so we can party our asses off on Wednesday, Thursday and Friday.
+It would be great if you are in Toronto by Wednesday afternoon (May 6th 2015), so we can party our asses off on Wednesday, Thursday and Friday. You 
 
-####Pre-Party
+Pre-Party
 * Date: TBD most likely Friday May 8th 2015
 * Location: TBD most likely Downtown Toronto
 
