@@ -15,7 +15,8 @@ category: long-form
 The wedding ceremony and reception will be held in Brampton (a 40 min drive from Downtown Toronto). <br>
 Transport will be provided from my place in Downtown Toronto to the Gurdwara in Brampton and again from Downtown Toronto to the reception hall in Brampton.
 
-Coach plan:
+Coach plan: <br>
+
 * From Toronto to Brampton on Sunday morning
 * From Brampton to Toronto on early Sunday afternoon
 * From Toronto to Brampton on Sunday evening
