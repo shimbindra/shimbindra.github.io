@@ -4,6 +4,10 @@ layout: post
 category: long-form
 ---
 
+Hello and welcome to manzaregettingmarried.com!
+
+This should give you the info you need for Manpreet and I's big day. If you got any questions, holla.
+
 
 ###Dates
 It would be great if you are in Toronto by Wednesday afternoon (May 6th 2015), so we can party our asses off on Wednesday, Thursday and Friday. You 
