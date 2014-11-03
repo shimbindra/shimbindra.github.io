@@ -10,11 +10,13 @@ This should give you the info you need for Me and Manpreet's big day.
 
 
 ##Dates:
+The Wedding Ceremony and Reception is on <b>Sunday May 10th </B>in Brampton (Greater Toronto Area), Ontario, Canada.
+
 It would be great if you are in Toronto by Tuesday (<b>May 5th 2015</b>), so we can party our asses off on Wednesday, Thursday and Friday. 
 
 I will be throwing a Pre-Party before the wedding. The date and location of this is TBD. Most likely on <b>Friday May 8th</B> in Downtown Toronto. 
 
-The Wedding Ceremony and Reception is on <b>Sunday May 10th </B>in Brampton (Greater Toronto Area).
+
 
 ##Who to fly with:
 
