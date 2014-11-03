@@ -9,9 +9,9 @@ Welcome to [Manz Are Getting Married.com](http://www.manzaregettingmarried.com)!
 This should give you the info you need for Shim and Manpreet's big day.
 
 ##Dates:
-The Wedding Ceremony and Reception is on <b>Sunday May 10th </B>in Brampton (Greater Toronto Area), Ontario, Canada.
+The Wedding Ceremony and Reception is on <b>Sunday May 10th 2015 </B>in Brampton (Greater Toronto Area), Ontario, Canada.
 
-It would be great if you are in Toronto by Tuesday (<b>May 5th 2015</b>), so we can party our asses off on Wednesday, Thursday and Friday. 
+It would be great if you are in Toronto by <b> Tuesday May 5th</b>, so we can party our asses off on Wednesday, Thursday and Friday. 
 
 I will be throwing a Pre-Party before the wedding. The date and location of this is TBD. Most likely on <b>Friday May 8th</B> in Downtown Toronto. 
 
