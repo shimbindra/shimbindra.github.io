@@ -65,10 +65,10 @@ Transport will be provided on the Wedding Day for two round trips from Toronto t
 
 Coach plan: <br>
 
-* From Toronto to Brampton before the Gurdwara ceremony
-* From Brampton to Toronto after the Gurdwara ceremony
-* From Toronto to Brampton before the reception
-* From Brampton to Toronto after the reception
+* From Toronto to Brampton before the Gurdwara ceremony (depart 7.30am)
+* From Brampton to Toronto after the Gurdwara ceremony (depart 1pm)
+* From Toronto to Brampton before the reception (depart 5.30pm)
+* From Brampton to Toronto after the reception (depart 2am)
 
 
 Weddings in Canada have a different running order compared to UK weddings. Here is an outline of the Wedding Day:
