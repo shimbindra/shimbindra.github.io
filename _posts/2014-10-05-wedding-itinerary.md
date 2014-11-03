@@ -21,9 +21,9 @@ I will be throwing a Pre-Party before the wedding. The date and location of this
 
 Toronto Pearson Airport is the only airport which handles direct flights from London. The airport is located in between Brampton and Toronto. Here are some of the available airlines:
 
-* Air Transat is normally the cheapest airline and operates from Gatwick direct to Toronto Pearson. I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either.
-* Sun Wing (budget airline and I’ve never used them)
-* All other standard airlines (Air Canada, BA, America Airlines etc)
+* <b>Air Transat</b> is normally the cheapest airline and operates from Gatwick direct to Toronto Pearson. I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either.
+* <b>Sun Wing</b> (budget airline, I’ve never used them)
+* All other standard airlines (<b>Air Canada, BA, America Airlines</B> etc)
 
 
 ## Where to stay:
