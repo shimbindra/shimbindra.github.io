@@ -4,10 +4,9 @@ layout: post
 category: long-form
 ---
 
-Hello and Welcome to [Manz Are Getting Married.com](http://www.manzaregettingmarried.com)!
+Welcome to [Manz Are Getting Married.com](http://www.manzaregettingmarried.com)!
 
-This should give you the info you need for Me and Manpreet's big day.
-
+This should give you the info you need for Shim and Manpreet's big day.
 
 ##Dates:
 The Wedding Ceremony and Reception is on <b>Sunday May 10th </B>in Brampton (Greater Toronto Area), Ontario, Canada.
