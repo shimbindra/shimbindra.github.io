@@ -108,7 +108,6 @@ Toronto
 Ontario
 M5V 3S1
 </pre>
-![ShimsPlace]({{site.url}}/images/397.png)
 
 ####Gurdwara address:
 <pre>
