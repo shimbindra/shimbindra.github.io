@@ -23,13 +23,13 @@ Toronto Pearson Airport is the only airport which handles direct flights from Lo
 
 * <b>Air Transat</b> is normally the cheapest airline and operates from Gatwick direct to Toronto Pearson. I’ve flown with them a few times, they have two types of planes: One type has a personal TV and decent legroom, the other type doesn’t have either.
 * <b>Sun Wing</b> (budget airline, I’ve never used them)
-* All other standard airlines (<b>Air Canada, BA, America Airlines</B> etc)
+* All other standard airlines (<b>Air Canada, BA, America Airlines,</B> etc)
 
 
 ## Where to stay:
 Best place to stay for the duration of the trip is in Downtown Toronto.
 
-Hotel booking websites - [Priceline.com](http://www.priceline.com/hotel), [Hotels.com](http://www.hotels.com), [Hotwire.com](http://www.hotwire.com)
+Hotel booking websites - [Priceline.com](http://www.priceline.com/hotel), [Hotels.com](http://www.hotels.com), [Hotwire.com](http://www.hotwire.com). There is also [air bnb](https://www.airbnb.ca), Apartment Rentals on [Home Away,] (http://www.homeaway.com/vacation-rentals/ontario/toronto/r16204) and [Flipkey](https://www.flipkey.com/toronto-vacation-rentals/g155019/)
 
 
 ###Toronto Hotels:
