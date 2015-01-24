@@ -35,8 +35,9 @@ Apartment Rental websties - [Air BnB](https://www.airbnb.ca), [Home Away](http:/
 
 ###Toronto Hotels:
 
-* A few people have booked there stay at the Hotel Victoria, which is in a really good location.
-	Here is a list of other nearby hotels - [click here for Google Maps link](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
+A few people have booked there stay at the Hotel Victoria, which is a pretty good price and in a really good location.
+
+* Here is a list of other nearby hotels - [click here for Google Maps link](https://www.google.ca/maps/search/hotels+toronto/@43.6486854,-79.3876799,15z)  
   * Renaissance Toronto at Rogers Centre
   * Hyatt
   * Ritz Carlton
