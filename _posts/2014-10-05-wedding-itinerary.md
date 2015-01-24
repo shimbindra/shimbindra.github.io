@@ -92,6 +92,8 @@ During this time you will be taken back to Toronto by the coach. Guests normally
   * Taxi to Downtown Toronto costs $55 (takes 40 mins)
   * Coach transfer 
   * Public Transport $3 (takes 1 hour – 1hour 20mins and requires 3 transfers)
+  * The Pearson to Union train costs $27.50 and takes 25 mins (the cost is $19 if you buy a Presto Card for $12, this is only worth doing if you will be travelling back to the airport on the same train)
+  
 * Travelling around Downtown Toronto:
   * Use either public transit (subway, trams, buses) or taxis
 * Travelling outside of Toronto to Brampton/Mississauga or other nearby towns:
