@@ -13,7 +13,7 @@ The Wedding Ceremony and Reception is on <b>Sunday May 10th 2015 </B>in Brampton
 
 It would be great if you are in Toronto by <b> Tuesday May 5th</b>, so we can party our asses off on Wednesday, Thursday and Friday. 
 
-I will be throwing a Pre-Party before the wedding. The date and location of this is TBD but it will most likely be on <b>Friday May 8th</B> in Downtown Toronto. 
+I will be throwing a Pre-Party on <b>Friday May 8th</B> in Downtown Toronto. 
 
 
 
@@ -109,6 +109,15 @@ During this time you will be taken back to Toronto by the coach. Guests normally
 Toronto
 Ontario
 M5V 3S1
+</pre>
+
+####Pre-Party address:
+<pre>
+The YMCA of Greater Toronto
+20 Grosvenor St
+Toronto
+Ontario
+M4Y 2V5
 </pre>
 
 ####Gurdwara address:
