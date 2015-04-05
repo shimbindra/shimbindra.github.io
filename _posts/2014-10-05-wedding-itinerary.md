@@ -9,11 +9,11 @@ Welcome to [Manz Are Getting Married.com](http://www.manzaregettingmarried.com)!
 This should give you the info you need for Shim and Manpreet's big day.
 
 ##Dates:
-The Wedding Ceremony and Reception is on <b>Sunday May 10th 2015 </B>in Brampton (Greater Toronto Area), Ontario, Canada.
+The Wedding Ceremony and Reception is on <b>Sunday, May 10th 2015 </B>in Brampton (Greater Toronto Area), Ontario, Canada.
 
-It would be great if you are in Toronto by <b> Tuesday May 5th</b>, so we can party our asses off on Wednesday, Thursday and Friday. 
+It would be great if you are in Toronto by <b> Tuesday, May 5th 2015</b>, so we can party our asses off on Wednesday, Thursday and Friday. 
 
-I will be throwing a Pre-Party on <b>Friday May 8th</B> in Downtown Toronto. 
+I will be throwing a Pre-Party on <b>Friday, May 8th 2015</B> in Downtown Toronto. 
 
 
 
@@ -30,7 +30,7 @@ Toronto Pearson Airport is the only airport which handles direct flights from Lo
 Best place to stay for the duration of the trip is in Downtown Toronto.
 
 Hotel booking websites - [Priceline](http://www.priceline.com/hotel), [Hotels.com](http://www.hotels.com), [Hotwire.com](http://www.hotwire.com). <br>
-Apartment Rental websties - [Air BnB](https://www.airbnb.ca), [Home Away](http://www.homeaway.com/vacation-rentals/ontario/toronto/r16204) and [Flipkey](https://www.flipkey.com/toronto-vacation-rentals/g155019/)
+Apartment Rental websites - [Air BnB](http://www.airbnb.ca)[Trip Advisor](https://www.tripadvisor.com), [Home Away](http://www.homeaway.com/vacation-rentals/ontario/toronto/r16204) and [Flipkey](https://www.flipkey.com/toronto-vacation-rentals/g155019/)
 
 
 ###Toronto Hotels:
@@ -92,7 +92,7 @@ During this time you will be taken back to Toronto by the coach. Guests normally
   * Taxi to Downtown Toronto costs $55 (takes 40 mins)
   * Coach transfer 
   * Public Transport $3 (takes 1 hour – 1hour 20mins and requires 3 transfers)
-  * The Pearson to Union train costs $27.50 and takes 25 mins (the cost is $19 if you buy a Presto Card for $12, this is only worth doing if you will be travelling back to the airport on the same train)
+  * The Pearson to Union train costs $27.50 and takes 25 mins (if you buy a Presto Card for $12, the cost of this trip is $19, this is only worth doing if you will be travelling back to the airport on the same train)
   
 * Travelling around Downtown Toronto:
   * Use either public transit (subway, trams, buses) or taxis
