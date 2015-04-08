@@ -83,7 +83,7 @@ Weddings in Canada have a different running order compared to UK weddings. Here 
 * Monday AM – Reception normally finishes around 2am
 
 Guests have a 6 hour break between the Ceremony and Reception.<br>
-During this time you will be taken back to Toronto by the coach. Guests normally wear a different outfit for the reception.
+During this time you will be taken back to Toronto by the coach. Guests normally wear a different outfit for the reception (a change of shirt and tie would probably do).
 
 
 ##Toronto Transport:
