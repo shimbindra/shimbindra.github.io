@@ -128,7 +128,7 @@ Gurdwara Dasmesh Darbar
 4555 Ebenezer Rd
 Brampton
 Ontario
-L6P 2R2f
+L6P 2R2
 </pre>
 
 ####Reception address:
